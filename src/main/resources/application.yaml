@@ -1,0 +1,13 @@
+person:
+  name: qinjiang
+  age: 3
+  happy: false
+  birth: 1999/01/01
+  maps: {k1: v1, k2: v2}
+  lists:
+    - code
+    - movie
+    - news
+  dog:
+    name: 旺财2
+    age: 1
